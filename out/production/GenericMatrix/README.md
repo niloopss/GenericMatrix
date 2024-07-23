@@ -148,17 +148,3 @@ classDiagram
 
 
 ## Resultados
-
-| Exemplo | Tamanho | Tipo de Dados | Matriz Original                                                                                                        | Diagonal Principal    | Matriz Transposta                                                                                                      |
-|---------|---------|---------------|------------------------------------------------------------------------------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------------------------------------|
-| 1       | 3x3     | Inteiro       | 1 2 3<br>4 5 6<br>7 8 9                                                                                                | 1 5 9                 | 1 4 7<br>2 5 8<br>3 6 9                                                                                                |
-| 2       | 2x2     | Caractere     | A B<br>C D                                                                                                             | A D                   | A C<br>B D                                                                                                             |
-| 3       | 4x4     | String        | Casa Carro Moto Bicicleta<br>Avião Trem Navio Caminhão<br>Computador Telefone Tablet Relógio<br>Cadeira Mesa Sofá Cama | Casa Trem Tablet Cama | Casa Avião Computador Cadeira<br>Carro Trem Telefone Mesa<br>Moto Navio Tablet Sofá<br>Bicicleta Caminhão Relógio Cama |
-| 4       | 2x2     | Double        | 1.5 2.8<br>3.2 4.6                                                                                                     | 1.5 4.6               | 1.5 3.2<br>2.8 4.6                                                                                                     |
-
-
-![Resultado - GenericMatrix - IntelliJ.png](Resultado%20-%20GenericMatrix%20-%20IntelliJ.png)
-![Resultado 2 - GenericMatrix - IntelliJ.png](Resultado%202%20-%20GenericMatrix%20-%20IntelliJ.png)
-![Resultado 3 - GenericMatrix - IntelliJ.png](Resultado%203%20-%20GenericMatrix%20-%20IntelliJ.png)
-![Resultado 4 - GenericMatrix - IntelliJ.png](Resultado%204%20-%20GenericMatrix%20-%20IntelliJ.png)
-![Resultado 5 - GenericMatrix - IntelliJ.png](Resultado%205%20-%20GenericMatrix%20-%20IntelliJ.png)
